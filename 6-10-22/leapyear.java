@@ -1,5 +1,5 @@
 /*program: WAP to check for leap year and take input from user 
-@author: Sushma 
+@author: Bablu Mahto 
 Date: 6th oct 2022
 */
 
