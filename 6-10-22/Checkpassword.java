@@ -1,5 +1,5 @@
 /* WAP to check the condition for checking the correct password using If-Else.Take input from the user.
-Author-Sushma
+Author-Bablu Mahto
 Date-6/09/2022
 */
 package Corejava;
