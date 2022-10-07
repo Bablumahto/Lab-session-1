@@ -1,5 +1,5 @@
 /*program: WAP to find the Reverse of a Number 
-@author: Sushma
+@author: Bablu Mahto
 Date: 6th oct 2022
 */
 package Corejava;
